@@ -1,16 +1,45 @@
-### Hi there 👋
+### Hellos there fellow humans []\~(￣▽￣)\~*
 
-<!--
-**HDreikorn/HDreikorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hillary and I am a software developer. I currently work at Heard & Smith building tools to help our team help people with disabilites.
 
-Here are some ideas to get you started:
+<details>
+<summary>🖤 Programming languages, Libraries, & Frameworks ...Oh My!</summary>
+<br>
+✨ These are the ones I have worked with enough to be comfortable enough with...
+  
+- Javascript
+- React
+- C#
+- .NET Core
+- C++
+- C
+- Python
+- GraphQL Front-end
+- AWS Amplify, Cognito, Lambda, API Gateway
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 These are the ones in progress to learn with my side project (repo link here soon)...
+- Golang
+- Vue
+- GraphQL Backend
+
+</details>
+
+<details>
+  <summary> 🛠 Tools I use</summary>
+  <br>
+ Current
+  
+- VS Code
+- Windows PC
+- Linux on Chromebook
+
+
+Have Used a Good Amount
+- Visual Studio
+- Vim
+- Mac OS
+- Linux based OS (Ubuntu and Mint)
+ </details>
+
+

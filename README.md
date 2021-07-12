@@ -1,6 +1,6 @@
 ### Hello there fellow humans []\~(￣▽￣)\~*
 
-I'm a software developer currently working at Social Security Law Firm building tools to *help* our team *help* people with disabilites.
+I'm a software developer currently working at Social Security Law Firm building tools to help our team *help* people with disabilites.
 
 <details>
 <summary>🖤 Programming languages, Libraries, & Frameworks ...Oh My!</summary>

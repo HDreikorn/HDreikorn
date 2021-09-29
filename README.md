@@ -1,6 +1,6 @@
 ### Hello there fellow humans []\~(￣▽￣)\~*
 
-I'm a software developer currently working at Social Security Law Firm building tools to help our team *help* people with disabilites.
+I'm a software engineer currently working at **[Tackle](https://tackle.io)**.
 
 <details>
 <summary>🖤 Programming languages, Libraries, & Frameworks ...Oh My!</summary>
@@ -33,12 +33,12 @@ I'm a software developer currently working at Social Security Law Firm building 
 - VS Code
 - Windows PC
 - Linux on Chromebook
+- Mac OS
 
 
 Have Used a Good Amount
 - Visual Studio
 - Vim
-- Mac OS
 - Linux based OS (Ubuntu and Mint)
  </details>
 
